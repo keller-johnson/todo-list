@@ -1,0 +1,22 @@
+body {
+  background-color: #434343;
+  color: #fff;
+  font-family: monospace;
+}
+
+.done {
+  text-decoration: line-through;
+  color: red;
+}
+
+li {
+  padding: 12px;
+  font-size: 24px;
+}
+
+li:hover {
+  cursor: pointer;
+}
+.hidden {
+  visibility: hidden;
+}
